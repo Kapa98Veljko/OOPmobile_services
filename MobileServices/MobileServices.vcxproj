@@ -20,10 +20,15 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Broj.cpp" />
+    <ClCompile Include="Korisnik.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Usluga.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Broj.h" />
+    <ClInclude Include="Exceptions.h" />
+    <ClInclude Include="Korisnik.h" />
+    <ClInclude Include="Usluga.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
